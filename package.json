@@ -4,7 +4,7 @@
   "description": "Related to GHA",
   "main": "test.js",
   "scripts": {
-    "test": "npx playwright test --headed"
+    "test": "npx playwright test"
   },
   "author": "asad",
   "license": "ISC",

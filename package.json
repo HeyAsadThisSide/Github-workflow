@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Related to GHA",
   "main": "test.js",
-  "scripts": {},
+  "scripts": {
+    "test": "npx playwright test --headed"
+  },
   "author": "asad",
   "license": "ISC",
   "dependencies": {

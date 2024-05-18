@@ -4,3 +4,7 @@ function pro(){
 }
 
 pro()
+
+function git(){
+    console.log("to test git")
+}
